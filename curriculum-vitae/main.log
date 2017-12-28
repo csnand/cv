@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.9.27)  18 OCT 2017 00:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2017.11.20)  28 DEC 2017 06:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **main.tex
 (./main.tex
 LaTeX2e <2017-04-15>
-Babel <3.12> and hyphenation patterns for 84 language(s) loaded.
+Babel <3.15> and hyphenation patterns for 84 language(s) loaded.
 (/usr/share/texmf-dist/tex/latex/moderncv/moderncv.cls
 Document Class: moderncv 2015/07/28 v2.0.0 modern curriculum vitae and letter d
 ocument class
@@ -158,10 +158,10 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2017/07/19 L3 programming layer (loader) 
+Package: expl3 2017/11/14 L3 programming layer (loader) 
 
 (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex
-Package: expl3 2017/07/19 L3 programming layer (code)
+Package: expl3 2017/11/14 L3 programming layer (code)
 \c_max_int=\count84
 \l_tmpa_int=\count85
 \l_tmpb_int=\count86
@@ -309,7 +309,7 @@ File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
 \l__driver_color_stack_int=\count167
 \l__driver_tmp_box=\box41
 ))
-Package: xparse 2017/07/19 L3 Experimental document command parser
+Package: xparse 2017/11/14 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count168
 \g__xparse_grabber_int=\count169
 \l__xparse_m_args_int=\count170
@@ -1350,10 +1350,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: AF4C115A1F92A208D66ECA09756CC9C0;614.
  ) 
 Here is how much of TeX's memory you used:
- 29745 strings out of 492990
- 549280 string characters out of 6138688
- 638692 words of memory out of 5000000
- 32873 multiletter control sequences out of 15000+600000
+ 29800 strings out of 492985
+ 550205 string characters out of 6138637
+ 638323 words of memory out of 5000000
+ 32933 multiletter control sequences out of 15000+600000
  585388 words of font info for 77 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  69i,12n,58p,10356b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1363,7 +1363,7 @@ s12.pfb></usr/share/texmf-dist/fonts/type1/public/lm/lmss17.pfb></usr/share/tex
 mf-dist/fonts/type1/public/lm/lmssbx10.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/lm/lmsso10.pfb></usr/share/texmf-dist/fonts/type1/public/marvosym/marvosy
 m.pfb>
-Output written on main.pdf (2 pages, 134554 bytes).
+Output written on main.pdf (2 pages, 134512 bytes).
 PDF statistics:
  71 PDF objects out of 1000 (max. 8388607)
  60 compressed objects within 1 object stream
