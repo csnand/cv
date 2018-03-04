@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.20)  26 FEB 2018 20:23
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017/Arch Linux) (preloaded format=xelatex 2017.11.20)  4 MAR 2018 02:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1756,23 +1756,23 @@ nput line 165.
 [1
 
 ] [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 294.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 294.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 293.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 293.
  (./main.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 294.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 294.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 293.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 293.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 36550 strings out of 493010
- 714493 string characters out of 6140133
- 831032 words of memory out of 5000000
- 40081 multiletter control sequences out of 15000+600000
+ 36540 strings out of 493010
+ 713636 string characters out of 6140133
+ 835031 words of memory out of 5000000
+ 40071 multiletter control sequences out of 15000+600000
  560156 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 78i,12n,62p,10356b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 78i,11n,62p,10356b,770s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on main.pdf (2 pages).
